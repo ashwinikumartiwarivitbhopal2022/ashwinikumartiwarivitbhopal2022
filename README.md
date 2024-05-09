@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashwini Kumar Tiwari</h1>
+ <h1 align="center">Hi 👋, I'm Ashwini Kumar Tiwari</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything here! I will try to help**
 
-- 📫 How to reach me **ashwanitiwari393@gmail.com,7321993333**
+- 📫 How to reach me **ashwanitiwari393@gmail.com, 7321993333**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-M-uMdVua0Y5FaeiBuD-GKdYdlG3-lLL/view?usp=sharing](https://drive.google.com/file/d/1-M-uMdVua0Y5FaeiBuD-GKdYdlG3-lLL/view?usp=sharing)
 
