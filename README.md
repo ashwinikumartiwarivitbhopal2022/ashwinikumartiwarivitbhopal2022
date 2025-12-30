@@ -1,19 +1,19 @@
  <h1 align="center">Hi 👋, I'm Ashwini Kumar Tiwari</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A DevOps Engineer from India</h3>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **Node.js , Full Stack Development**
+- 🌱 I’m currently learning **Node.js , Express.js**
 
-- 👯 I’m looking to collaborate on **Full Stack projects**
+- 👯 I’m looking to collaborate on **Cloud & Automation**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **MlOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashwinikumartiwarivitbhopal2022](https://github.com/ashwinikumartiwarivitbhopal2022)
 
 - 💬 Ask me about **Anything here! I will try to help**
 
-- 📫 How to reach me **ashwanitiwari393@gmail.com, 7321993333**
+- 📫 How to reach me **ashwanitiwari393@gmail.com, 7079762067**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-M-uMdVua0Y5FaeiBuD-GKdYdlG3-lLL/view?usp=sharing](https://drive.google.com/file/d/1-M-uMdVua0Y5FaeiBuD-GKdYdlG3-lLL/view?usp=sharing)
 
