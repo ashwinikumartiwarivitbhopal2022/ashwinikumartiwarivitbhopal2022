@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **DevSecOps**
-
 - 👯 I’m looking to collaborate on **Cloud & Automation**
-
-- 🤝 I’m looking for help with **MlOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashwinikumartiwarivitbhopal2022](https://github.com/ashwinikumartiwarivitbhopal2022)
 
