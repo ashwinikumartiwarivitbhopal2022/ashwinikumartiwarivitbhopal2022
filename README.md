@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **DevOps Engineer**
 
-- 🌱 I’m currently learning **Node.js , Express.js**
+- 🌱 I’m currently learning **DevSecOps**
 
 - 👯 I’m looking to collaborate on **Cloud & Automation**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-M-uMdVua0Y5FaeiBuD-GKdYdlG3-lLL/view?usp=sharing](https://drive.google.com/file/d/1-M-uMdVua0Y5FaeiBuD-GKdYdlG3-lLL/view?usp=sharing)
 
-- ⚡ Fun fact **Always ready to help**
+- ⚡ **Always ready to help**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
